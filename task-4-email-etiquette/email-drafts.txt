@@ -1,6 +1,6 @@
 Email 1: Assignment Extension Request 
 
-Subject: Extension Request: Python Data Structures Assignment - Anand Maurya (25BAI10039)
+Subject: Extension Request: Python Data Structures Assignment
 
 Dear Professor,
 
@@ -20,7 +20,7 @@ Reg No: 25BAI10549
 
 Email 2: Summer Internship Inquiry 
 
-Subject: Inquiry Regarding Summer AI/ML Internship Opportunities - Anand Maurya
+Subject: Inquiry Regarding Summer AI/ML Internship Opportunities
 
 Dear Coordinator,
 
